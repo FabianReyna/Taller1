@@ -1,4 +1,4 @@
-### <b>Universidad de San Carlos de Guatemala</b>
+### **Universidad de San Carlos de Guatemala**
 ### Facultad de Ingeniería
 ### Unidad de Prácticas Iniciales
 ### Practicas Iniciales
