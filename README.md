@@ -58,15 +58,15 @@ ___
 ___
 
 ## Manual mantenimiento 
--Manual del mantenimiento PDF:[manual.pdf](https://github.com/FabianReyna/Taller1/files/6935137/reporte.pdf)
-)
+-Manual del mantenimiento PDF: [manual.pdf](https://github.com/FabianReyna/Taller1/files/6935137/reporte.pdf)
+
 ___
 
 ## Trifoliar
 ![trifoliar taller 1_1](https://user-images.githubusercontent.com/82343610/128272085-a33f3ec5-ffa3-4f65-b1e8-ce7c2ac0bea8.png)
 ![trifoliar taller 1_2](https://user-images.githubusercontent.com/82343610/128272104-7eec47c7-5ae1-4f95-bab8-fdccbd7fe74b.png)
 
--Trifoliar en archivo PDF:[trifoliar taller 1.pdf](https://github.com/FabianReyna/repositorio1/files/6935087/trifoliar.taller.1.pdf)
+-Trifoliar en archivo PDF: [trifoliar taller 1.pdf](https://github.com/FabianReyna/repositorio1/files/6935087/trifoliar.taller.1.pdf)
 
 
 
