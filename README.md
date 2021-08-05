@@ -58,7 +58,7 @@ ___
 ___
 
 ## Manual mantenimiento 
--Trifoliar en archivo PDF:[trifoliar taller 1.pdf](https://github.com/FabianReyna/repositorio1/files/6935087/reporte1.pdf)
+-Manual del mantenimiento PDF:[manual.pdf](https://github.com/FabianReyna/repositorio1/files/reporte.pdf)
 ___
 
 ## Trifoliar
