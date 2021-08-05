@@ -17,4 +17,4 @@ ___
 
 ## Mantenimiento de una Computadora
 
-**a**
+
