@@ -17,16 +17,9 @@ ___
 
 ## Mantenimiento de una Computadora
 
-### Definición de Computadora: 
-``` Dispositivo electrónico que soluciona problemas a grandes velocidades, comparado con el ser humano, el cual posee la capacidad de almacenar, brindar y procesar información.```
+#### Definición de Computadora: 
+###### Dispositivo electrónico que soluciona problemas a grandes velocidades, comparado con el ser humano, el cual posee la capacidad de almacenar, brindar y procesar información.
 
 
 [Video del mantenimiento.](https://drive.google.com/file/d/1EdoPmRB8YpWDBA3g7MPxNWIdeBbOnHA4/view?usp=sharing) 
-
-## Trifoliar
-![trifoliar taller 1_1](https://user-images.githubusercontent.com/82343610/128271459-6d3ec2bd-d4ce-4bee-a7b2-9fc980616a28.png)
-![trifoliar taller 1_2](https://user-images.githubusercontent.com/82343610/128271469-498e9ea6-bd33-4f33-a93d-a87337f91b1d.png)
-
--Trifoloar en PDF:
-[trifoliar taller 1.pdf](https://github.com/FabianReyna/repositorio1/files/6935058/trifoliar.taller.1.pdf)
 
