@@ -17,7 +17,7 @@ ___
 
 ## Mantenimiento de una Computadora
 
-### Definicioón de Computadora
+### Definición de Computadora
 Dispositivo electrónico que soluciona problemas a grandes velocidades, comparado con el ser humano, el cual posee la capacidad de almacenar, brindar y procesar información.
 
 
@@ -46,6 +46,13 @@ _Sirven para mostrar los datos que procesa la computadora. El monitor y la impre
 * **Fuente de Poder:** es la encargada de suministrar energía a la placa base y demás componentes.
 
 * **Disco Rígido:** también conocido como disco duro, es el encargado de almacenar los datos de la computadora, así mismo editarlos, visualizarlos o eliminarlos.
+
+
+## Materiales para el mantenimiento 
+* Aire comprimido
+* Pasta térmica
+* Destornilladores pequeños
+* Pulsera Antiestática
 
 ## Trifoliar
 ![trifoliar taller 1_1](https://user-images.githubusercontent.com/82343610/128272085-a33f3ec5-ffa3-4f65-b1e8-ce7c2ac0bea8.png)
