@@ -57,11 +57,16 @@ ___
 [Video del mantenimiento.](https://drive.google.com/file/d/1EdoPmRB8YpWDBA3g7MPxNWIdeBbOnHA4/view?usp=sharing) 
 ___
 
+## Manual mantenimiento 
+-Trifoliar en archivo PDF:[trifoliar taller 1.pdf](https://github.com/FabianReyna/repositorio1/files/6935087/reporte1.pdf)
+___
+
 ## Trifoliar
 ![trifoliar taller 1_1](https://user-images.githubusercontent.com/82343610/128272085-a33f3ec5-ffa3-4f65-b1e8-ce7c2ac0bea8.png)
 ![trifoliar taller 1_2](https://user-images.githubusercontent.com/82343610/128272104-7eec47c7-5ae1-4f95-bab8-fdccbd7fe74b.png)
 
 -Trifoliar en archivo PDF:[trifoliar taller 1.pdf](https://github.com/FabianReyna/repositorio1/files/6935087/trifoliar.taller.1.pdf)
+
 
 
 
