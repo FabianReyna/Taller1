@@ -16,5 +16,5 @@ ___
 - Alejandro Leonardo Yac Pérez – 201700315
 
 ## Mantenimiento de una Computadora
-[Video](https://drive.google.com/file/d/1EdoPmRB8YpWDBA3g7MPxNWIdeBbOnHA4/view?usp=sharing) del mantenimiento.
+[Video del mantenimiento.](https://drive.google.com/file/d/1EdoPmRB8YpWDBA3g7MPxNWIdeBbOnHA4/view?usp=sharing) 
 
