@@ -16,8 +16,5 @@ ___
 - Alejandro Leonardo Yac Pérez – 201700315
 
 ## Mantenimiento de una Computadora
-
-## Trifoliar
-[trifoliar taller 1.pdf](https://github.com/FabianReyna/repositorio1/files/6935035/trifoliar.taller.1.pdf)
-
+[Video](https://drive.google.com/file/d/1EdoPmRB8YpWDBA3g7MPxNWIdeBbOnHA4/view?usp=sharing) del mantenimiento.
 
