@@ -16,5 +16,10 @@ ___
 - Alejandro Leonardo Yac Pérez – 201700315
 
 ## Mantenimiento de una Computadora
+
+### Definicioón de Computadora
+#### Dispositivo electrónico que soluciona problemas a grandes velocidades, comparado con el ser humano, el cual posee la capacidad de almacenar, brindar y procesar información.
+
+
 [Video del mantenimiento.](https://drive.google.com/file/d/1EdoPmRB8YpWDBA3g7MPxNWIdeBbOnHA4/view?usp=sharing) 
 
