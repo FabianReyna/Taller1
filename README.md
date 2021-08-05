@@ -17,4 +17,7 @@ ___
 
 ## Mantenimiento de una Computadora
 
+## Trifoliar
+[trifoliar taller 1.pdf](https://github.com/FabianReyna/repositorio1/files/6935035/trifoliar.taller.1.pdf)
+
 
