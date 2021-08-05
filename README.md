@@ -1,4 +1,4 @@
-### **Universidad de San Carlos de Guatemala**
+### Universidad de San Carlos de Guatemala
 ### Facultad de Ingeniería
 ### Unidad de Prácticas Iniciales
 ### Practicas Iniciales
@@ -17,4 +17,4 @@ ___
 
 ## Mantenimiento de una Computadora
 
-
+**a**
