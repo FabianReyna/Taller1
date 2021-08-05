@@ -17,7 +17,7 @@ ___
 
 ## Mantenimiento de una Computadora
 
-### Definición de Computadora: 
+###### Definición de Computadora: 
 ``` Dispositivo electrónico que soluciona problemas a grandes velocidades, comparado con el ser humano, el cual posee la capacidad de almacenar, brindar y procesar información.```
 
 
