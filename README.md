@@ -1,6 +1,6 @@
 ### Universidad de San Carlos de Guatemala
 ### Facultad de Ingeniería
-### Unidad de Prácticas Iniciales
+### Unidad de Prácticas Iniciales y EPS
 ### Practicas Iniciales
 ___
 ### Tutores
@@ -20,8 +20,6 @@ ___
 ### Definición de Computadora
 Dispositivo electrónico que soluciona problemas a grandes velocidades, comparado con el ser humano, el cual posee la capacidad de almacenar, brindar y procesar información.
 
-
-[Video del mantenimiento.](https://drive.google.com/file/d/1EdoPmRB8YpWDBA3g7MPxNWIdeBbOnHA4/view?usp=sharing) 
 
 ## PARTES DE UNA COMPUTADORA
 * Computador
@@ -54,6 +52,9 @@ _Sirven para mostrar los datos que procesa la computadora. El monitor y la impre
 * Destornilladores pequeños
 * Pulsera Antiestática
 
+___
+## ¿Cómo hacer el mantenimiento?
+[Video del mantenimiento.](https://drive.google.com/file/d/1EdoPmRB8YpWDBA3g7MPxNWIdeBbOnHA4/view?usp=sharing) 
 ___
 
 ## Trifoliar
