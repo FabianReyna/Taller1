@@ -54,6 +54,8 @@ _Sirven para mostrar los datos que procesa la computadora. El monitor y la impre
 * Destornilladores pequeños
 * Pulsera Antiestática
 
+___
+
 ## Trifoliar
 ![trifoliar taller 1_1](https://user-images.githubusercontent.com/82343610/128272085-a33f3ec5-ffa3-4f65-b1e8-ce7c2ac0bea8.png)
 ![trifoliar taller 1_2](https://user-images.githubusercontent.com/82343610/128272104-7eec47c7-5ae1-4f95-bab8-fdccbd7fe74b.png)
