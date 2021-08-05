@@ -17,17 +17,38 @@ ___
 
 ## Mantenimiento de una Computadora
 
-#### Definición de Computadora: 
-###### Dispositivo electrónico que soluciona problemas a grandes velocidades, comparado con el ser humano, el cual posee la capacidad de almacenar, brindar y procesar información.
+### Definicioón de Computadora
+#### Dispositivo electrónico que soluciona problemas a grandes velocidades, comparado con el ser humano, el cual posee la capacidad de almacenar, brindar y procesar información.
 
 
 [Video del mantenimiento.](https://drive.google.com/file/d/1EdoPmRB8YpWDBA3g7MPxNWIdeBbOnHA4/view?usp=sharing) 
 
-## Trifoliar
-![trifoliar taller 1_1](https://user-images.githubusercontent.com/82343610/128271697-e2e43919-d497-4d06-b809-d4e328c68bb3.png)
-![trifoliar taller 1_2](https://user-images.githubusercontent.com/82343610/128271702-7eb3518c-a476-4d52-96ce-07ff6a1cb437.png)
+## PARTES DE UNA COMPUTADORA
+* Computador
 
-Trifoliar en archivo PDF:
-[trifoliar taller 1.pdf](https://github.com/FabianReyna/repositorio1/files/6935068/trifoliar.taller.1.pdf)
+_Son todos los elementos que se encuentran dentro del case, conocido coloquialmente como CPU._
+
+* Periféricos o dispositivos de entrada
+
+_Son los encargados de suministrar los datos a la computadora: entre ellos se encuentran, principalmente, el teclado y el ratón. Otros son el escáner, micrófonos, webcams, memorias o discos duros externos, etc._
+
+* Periféricos o dispositivos de salida
+
+_Sirven para mostrar los datos que procesa la computadora. El monitor y la impresora son los más comunes._
+
+## PRINCIPALES COMPONENTES INTERNOS DE UNA COMPUTADORA
+* **Tarjeta Madre:** tarjeta de circuito impreso a la que se conectan los componentes que constituyen la computadora.
+
+* **Procesador:** es un circuito electrónico encargado de interpretar las instrucciones de un hardware haciendo uso de distintas operaciones aritméticas y matemáticas.
+
+* **Memoria RAM:** es la memoria a corto plazo la cual guarda los datos conforme el procesador los requiera.
+
+* **Fuente de Poder:** es la encargada de suministrar energía a la placa base y demás componentes.
+
+* **Disco Rígido:** también conocido como disco duro, es el encargado de almacenar los datos de la computadora, así mismo editarlos, visualizarlos o eliminarlos.
+
+
+
+
 
 
